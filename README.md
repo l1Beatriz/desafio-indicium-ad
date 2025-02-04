@@ -22,3 +22,13 @@ Abra o **terminal** (`Ctrl + ~`) e execute o seguinte comando para verificar se 
 
 ```sh
 python --version 
+````
+
+### 3️⃣ Abrir o Jupyter Notebook no VS Code
+Após a instalação da extensão e do Jupyter, agora você pode abrir e visualizar o notebook diretamente no VS Code.  
+Para abrir o arquivo `.ipynb`, clique em **File > Open File** ou pressione `Ctrl + O` e selecione o arquivo Jupyter Notebook.  
+O arquivo será carregado em uma nova aba dentro do VS Code.
+
+### 4️⃣ Interagir com o Notebook
+Agora você pode executar células, editar código e visualizar gráficos diretamente no VS Code.  
+As células podem ser executadas utilizando o botão **Run Cell** ou pressionando `Shift + Enter`.
