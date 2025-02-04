@@ -17,7 +17,7 @@ Abra o **VS Code**, vá até a aba de extensões (`Ctrl + Shift + X`) e procure 
 
 ![imaem da extensão](https://www.hashtagtreinamentos.com/wp-content/uploads/2023/05/jupyter-2-1024x399.png)
 
-### 2️⃣ Instalar o Jupyter no Python
+### 2️⃣ Verificar Instalação do Python
 Abra o **terminal** (`Ctrl + ~`) e execute o seguinte comando para verificar se Python foi instalado corretamente:
 
 ```sh
