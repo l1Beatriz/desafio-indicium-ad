@@ -1,4 +1,4 @@
-# Como Visualizar um Jupyter Notebook o VS Code
+# Como Visualizar o Jupyter Notebook no VS Code
 
 Este guia explica como abrir e visualizar um **Jupyter Notebook (`.ipynb`)** no **Visual Studio Code (VS Code)**.
 
